@@ -1,0 +1,56 @@
+text,intent
+hello,greeting
+hi,greeting
+hey,greeting
+hye,greeting
+hello there,greeting
+good morning,greeting
+good evening,greeting
+good afternoon,greeting
+namaste,greeting
+ram ram,greeting
+radhe radhe,greeting
+hi bot,greeting
+hey bot,greeting
+hello buddy,greeting
+kaise ho,greeting
+kya haal hai,greeting
+bye,goodbye
+goodbye,goodbye
+bye bye,goodbye
+see you,goodbye
+see you later,goodbye
+see you soon,goodbye
+take care,goodbye
+talk to you later,goodbye
+catch you later,goodbye
+i am leaving,goodbye
+i have to go,goodbye
+good night,goodbye
+thanks,thanks
+thank you,thanks
+thankyou,thanks
+thx,thanks
+thanks a lot,thanks
+much appreciated,thanks
+really thanks,thanks
+thanks bro,thanks
+thanks buddy,thanks
+grateful,thanks
+appreciate it,thanks
+thanks for helping,thanks
+how are you,about
+how are you doing,about
+what is your name,about
+who are you,about
+tell me about yourself,about
+what are you doing,about
+what do you do,about
+are you a bot,about
+are you human,about
+what can you do,about
+how do you work,about
+
+
+
+
